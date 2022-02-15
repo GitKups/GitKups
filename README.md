@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GitKups
+- 👀 I’m interested in OSINT
+- 🌱 I’m currently a freelancer
+- 💞️ I’m looking to collaborate on remote tasks
+- 📫 How to reach me - kuptsov13@gmail.com
